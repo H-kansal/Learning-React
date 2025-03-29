@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(97, 91, 91);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
